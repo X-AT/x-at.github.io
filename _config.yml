@@ -1,0 +1,12 @@
+# Site settings
+title: X Antenna Tracker
+email: vooon341@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Autimatic antenna tracker for UAVs based on OpenWRT router and Arduino.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://x-at.github.io" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  x-at
+
+# Build settings
+markdown: kramdown
