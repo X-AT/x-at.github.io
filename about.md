@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This project is my trying to build automatic antenna tracker for UAV with MAVLink telemetry.
+Main difference that i use two NEMA-17 steppers instead of servos for rotation.
+Also it intended for digital telemetry and video (WiFi).
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Now work in progress, first prototype almost done. Now i'am writing software.
