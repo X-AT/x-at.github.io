@@ -17,8 +17,6 @@ My board almost the same as [SatNOGS-arduino][satnogs-ar], but with different wi
 
 TODO:
 
-- Check QTR-1RC endstops
-- Check *V<sub>bat</sub>* voltage meter (A0)
 - Simple LUFA HID device
 - Add bulk endpoint for LCD
 - Port AccelStepper
@@ -28,6 +26,8 @@ Done:
 
 - Check stepper drivers
 - Check SSD1306 OLED display
+- Check QTR-1RC endstops
+- Check *V<sub>bat</sub>* voltage meter (A0)
 
 
 [satnogs]: http://satnogs.org
