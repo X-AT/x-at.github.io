@@ -16,12 +16,15 @@ My board almost the same as [SatNOGS-arduino][satnogs-ar], but with different wi
 ![x-at-arduino control board](/images/arduino-board/IMG171.jpg)
 
 *Update 14.01.2015:* i decided to replace QTR-1RC with QTR-1A (by modifying sensor).
+Most of tasks now works in [x-at-arduino.git][xata] firmware.
 
 
 TODO:
 
-- Port AccelStepper
 - SSD1306 support
+- Error indication (LED1)
+- Watchdog enable
+- Code cleanup
 
 Done:
 
@@ -30,7 +33,9 @@ Done:
 - Check QTR-1RC endstops
 - Check *V<sub>bat</sub>* voltage meter (A0)
 - Simple LUFA HID device
+- Port AccelStepper
 
 
 [satnogs]: http://satnogs.org
 [satnogs-ar]: https://github.com/satnogs/satnogs-arduino
+[xata]: https://github.com/X-AT/x-at-arduino
