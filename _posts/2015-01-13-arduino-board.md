@@ -15,10 +15,11 @@ My board almost the same as [SatNOGS-arduino][satnogs-ar], but with different wi
 ![schematic](/images/arduino-board/x-at-arduino.sch.png)
 ![x-at-arduino control board](/images/arduino-board/IMG171.jpg)
 
+*Update 14.01.2015:* i decided to replace QTR-1RC with QTR-1A (by modifying sensor).
+
+
 TODO:
 
-- Simple LUFA HID device
-- Add bulk endpoint for LCD
 - Port AccelStepper
 - SSD1306 support
 
@@ -28,6 +29,7 @@ Done:
 - Check SSD1306 OLED display
 - Check QTR-1RC endstops
 - Check *V<sub>bat</sub>* voltage meter (A0)
+- Simple LUFA HID device
 
 
 [satnogs]: http://satnogs.org
