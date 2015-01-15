@@ -21,9 +21,6 @@ Most of tasks now works in [x-at-arduino.git][xata] firmware.
 
 TODO:
 
-- SSD1306 support
-- Error indication (LED1)
-- Watchdog enable
 - Code cleanup
 
 Done:
@@ -34,6 +31,9 @@ Done:
 - Check *V<sub>bat</sub>* voltage meter (A0)
 - Simple LUFA HID device
 - Port AccelStepper
+- SSD1306 support
+- Error indication (LED1)
+- Watchdog enable
 
 
 [satnogs]: http://satnogs.org
